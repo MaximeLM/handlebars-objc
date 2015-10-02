@@ -24,5 +24,9 @@
 	<true/>
 	<key>--explicit-crossref</key>
 	<true/>
+	<key>--warn-undocumented-object</key>
+	<false/>
+	<key>--warn-undocumented-member</key>
+	<false/>
 </dict>
 </plist>
